@@ -6,7 +6,7 @@ public static void main(String[] args) {
         int num1 = input.nextInt();
         System.out.print("Enter second number: ");
         int num2 = input.nextInt();
-        int product = num1*num2;
-        System.out.println("Output: "+product);
+        int mult = num1*num2;
+        System.out.println("Output: "+mult);
     }
 }
